@@ -1,0 +1,8 @@
+name: environment
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - xarray=2022.3.0=pyhd8ed1ab_0
+prefix: /Users/jamesruppert/opt/anaconda3/envs/metr3123
