@@ -14,7 +14,6 @@ dependencies:
     - wrf-python
     - scipy
     - cartopy
-    - siphon
     - metpy
     - pandas
     
