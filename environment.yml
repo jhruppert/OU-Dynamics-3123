@@ -1,4 +1,4 @@
-name: environment
+name: example-environment
 channels:
   - conda-forge
 dependencies:
@@ -11,9 +11,10 @@ dependencies:
     - cftime
     - cfgrib
     - eccodes
-    - wrf
+    - wrf-python
     - scipy
     - cartopy
     - siphon
     - metpy
     - pandas
+    
