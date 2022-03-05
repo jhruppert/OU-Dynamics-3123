@@ -2,18 +2,9 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
-  - python>3.8
+  - python>3.7
   - numpy
-  - pip
-  - pip:
-    - xarray
-    - matplotlib
-    - cftime
-    - cfgrib
-    - eccodes
-    - wrf-python
-    - scipy
-    - cartopy
-    - metpy
-    - pandas
-    
+  - cartopy
+  - matplotlib
+  - scipy
+  - netcdf4
