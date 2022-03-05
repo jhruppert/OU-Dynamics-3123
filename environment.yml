@@ -8,3 +8,12 @@ dependencies:
   - pip:
     - xarray
     - matplotlib
+    - cftime
+    - cfgrib
+    - eccodes
+    - wrf
+    - scipy
+    - cartopy
+    - siphon
+    - metpy
+    - pandas
