@@ -1,6 +1,3 @@
 .ipynb_checkpoints
 .DS_Store
-gdplot.ipynb
-gdcxtns.ipynb
-HW3_solutions.ipynb
-HW3_sandy.ipynb
+ignore/*
